@@ -1,6 +1,6 @@
 # MyFunctions
 These are my functions for C that i like to use
-## INFO
+## Info
 In each folder there should be a .c file a .h file as well as a README.md
 ## How to use(with gcc)
 Compile the .c file into a .o
